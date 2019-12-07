@@ -3,9 +3,9 @@ This fork
 
 This repo is a fork of of https://github.com/paroga/cbor-js 
 
-"paroga/cbor-js" has 7 unmerged pull requests that has not been merged in this repo fork. 
+"paroga/cbor-js" has 4 unmerged pull requests that has not been merged in this repo fork. 
 
-The unmerged (not copied to this repo fork of "paroga/cbor-js") pull requests are:
+There are also some issues at "paroga/cbor-js"):
 
 - String encoding breaks in several edge cases #27 , https://github.com/paroga/cbor-js/issues/27
 - Requirejs and CBOR-js #26 https://github.com/paroga/cbor-js/issues/26
