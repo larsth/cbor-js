@@ -1,3 +1,22 @@
+This fork
+=========
+
+This repo is a fork of of https://github.com/paroga/cbor-js 
+
+"paroga/cbor-js" has 7 unmerged pull requests that has not been merged in this repo fork. 
+
+The unmerged (not copied to this repo fork of "paroga/cbor-js") pull requests are:
+
+- String encoding breaks in several edge cases #27 , https://github.com/paroga/cbor-js/issues/27
+- Requirejs and CBOR-js #26 https://github.com/paroga/cbor-js/issues/26
+- Error: Maximum call stack size exceeded #24 https://github.com/paroga/cbor-js/issues/24
+- Handle ArrayBuffer encoding #21 https://github.com/paroga/cbor-js/issues/21
+- TypeScript definition file #13 https://github.com/paroga/cbor-js/issues/13
+- Performance #11 https://github.com/paroga/cbor-js/issues/11
+- Pluggable encoders and decoders for tagged values #3 https://github.com/paroga/cbor-js/issues/3
+
+If I was going solve this I would probably use [Rust](https://www.rust-lang.org/) and make a WASM file. There are anumber of crates (Rust packages) that could e a candiadate for doing that, look at https://cbor.io/impls.html
+
 cbor-js
 =======
 
